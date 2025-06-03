@@ -8,6 +8,12 @@ This is a lightweight prototype of how computer vision and deep learning can be 
 
 ---
 
+## 📸 Demo
+
+![Emotion Detection Demo](demo.gif)
+
+---
+
 ## 🚀 How It Works
 
 1. **Video Feed Capture**: The webcam is accessed using OpenCV's `VideoCapture`.
@@ -76,10 +82,3 @@ This project taught me the following:
 * Store emotion logs for analysis over time
 
 ---
-
-## 📸 Demo
-
-
-
----
-
